@@ -1,0 +1,5 @@
+(library
+ (name network)
+ (libraries lwt yojson core ppx_deriving_yojson.runtime)
+ (preprocess
+  (pps ppx_deriving_yojson ppx_deriving.show)))

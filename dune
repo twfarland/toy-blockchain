@@ -1,0 +1,3 @@
+(executable
+ (name node)
+ (libraries opium cohttp-lwt-unix uuidm blockchain block transaction))

@@ -1,0 +1,5 @@
+(library
+ (name block)
+ (libraries sha yojson transaction core ppx_deriving_yojson.runtime)
+ (preprocess
+  (pps ppx_deriving_yojson ppx_deriving.show)))
