@@ -3,7 +3,7 @@
 This is an OCaml port of the python toy blockchain described in https://hackernoon.com/learn-blockchains-by-building-one-117428612f46
 
 I ported this to build a bit of intuition about basic blockchain concepts and to practice
-the excellent OCaml language, which I haven't yet had a opportunity to use in the industry.
+the excellent OCaml language, which I haven't yet had an opportunity to use in the industry.
 
 ## Build / run a node
 
